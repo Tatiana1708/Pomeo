@@ -1,0 +1,83 @@
+.submit-form{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.page-title{
+    margin-top: 30px;
+}
+/*  */
+.react-tabs__tab {
+    font: normal normal bold 20px/32px Helvetica;
+}
+.react-tabs__tab--selected {
+    background: #fff;
+    border-color: #aaa;
+    color: #1B9EBB;
+    border-radius: 5px 5px 0 0;
+}
+label{
+    font: normal normal normal 16px/20px Helvetica;
+}
+span{
+    color: red;
+}
+select{
+    width: 50px;
+    margin-right: 20px;
+}
+.form-group{
+    margin-bottom: 20px;
+    display: grid;
+}
+input[type="text"]{
+    font-size: 16px;
+    padding-left: 10px;
+}
+input[type="email"]{
+    font-size: 16px;
+    padding-left: 10px;
+}
+input[type="number"]{
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.form-control{
+    width: 500px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 9px;
+    border: 1px solid #707070;
+}
+.bic{
+    width: 200px;
+    margin-left: 20px;
+}
+.bancaire{
+    display: flex;
+}
+.mobile{
+    display: flex;
+}
+.mobile select{
+    width: 200px;
+}
+.btns{
+    margin-top: 20px;
+    width: 130px;
+    height: 40px;
+    background-color: #1B9EBB;
+    border: none;
+}
+.doc{
+    display: flex;
+}
+.doc .form-control{
+    display: none;
+}
+.doc img{
+    height: 25px;
+    width: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
